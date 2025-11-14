@@ -25,7 +25,7 @@ This is a great beginner-friendly mini-project for learning Python loops, condit
 ```
 rock-paper-scissors/
 │
-├── rps_game.py       # Main game script
+├── RockPaperScissors.py       # Main game script
 └── README.md
 ```
 
@@ -35,13 +35,13 @@ rock-paper-scissors/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/rock-paper-scissors.git
+git clone https://github.com/riyagoyal08010-glitch/rock-paper-scissors.git
 cd rock-paper-scissors
 ```
 
 2. Run the Python script:
 ```bash
-python rps_game.py
+python RockPpaerScissors.py
 ```
 
 ---
