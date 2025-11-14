@@ -35,8 +35,8 @@ rock-paper-scissors/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/riyagoyal08010-glitch/rock-paper-scissors.git
-cd rock-paper-scissors
+git clone https://github.com/riyagoyal08010-glitch/Rock-Paper-Scissors.git
+cd Rock-Paper-Scissors
 ```
 
 2. Run the Python script:
